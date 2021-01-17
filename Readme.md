@@ -16,7 +16,7 @@ Twitter: [@RS_Sidekick](https://twitter.com/RS_Sidekick)
 
 Submit a Bug Report or Feature Request: [Issues Page](https://github.com/NatickSoftware/RedstoneSidekick/issues)
 
-Reddit Post: [Redstone Sidekick]()
+Reddit Post: [Redstone Sidekick](https://www.reddit.com/r/Minecraft/comments/kyvbn9/redstone_sidekick_a_minecraft_crafting_tree_and/)
 
 YouTube: [Redstone Sidekick Tutorial](https://www.youtube.com/watch?v=gCvlVOLV_6g)
 
@@ -24,8 +24,6 @@ YouTube: [Redstone Sidekick Tutorial](https://www.youtube.com/watch?v=gCvlVOLV_6
 ## A Brief Guide to Redstone Sidekick
 
 For a video tutorial and introduction, check out this YouTube video: 
-[RS Tutorial (YouTube)]()
-
 [![RS Tutorial Video](https://img.youtube.com/vi/gCvlVOLV_6g/maxresdefault.jpg)](https://www.youtube.com/watch?v=gCvlVOLV_6g)
 
 Below is a quick guide to the basic functionality of Redstone Sidekick. In this guide you'll see how to:
