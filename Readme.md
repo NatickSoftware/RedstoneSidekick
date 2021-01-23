@@ -1,6 +1,6 @@
 ![Redstone Sidekick](https://i.imgur.com/v3yk2du.png)
 
-Redstone Sidekick is a companion application for Minecraft that allows you to autogenerate crafting trees and gathering lists for your projects from Minecraft structure files. You can track your progress as you gather and craft your creation, and you can share your material list with others through simple project codes that your friends/audience can copy and paste into Redstone Sidekick.
+Redstone Sidekick is a companion application for Minecraft that allows you to autogenerate crafting trees and gathering lists for your projects from Minecraft structure files or WorldEdit .schem files. You can track your progress as you gather and craft your creation, and you can share your material list with others through simple project codes that your friends/audience can copy and paste into Redstone Sidekick.
 
 ## Installation
 
@@ -32,12 +32,12 @@ Below is a quick guide to the basic functionality of Redstone Sidekick. In this 
 * View your project's gathering list 
 * Save, load, and share projects through .rsp files or project codes.
 
-## Creating a Project From a Minecraft Structure File
+## Creating a Project From a Minecraft Structure File or World Edit .schem file.
 If you need help creating a structure file in Minecraft, there is a [tutorial here.](https://www.digminecraft.com/getting_started/structure_block_corner_mode.php "tutorial here.")
 
 In brief, a structure file, (marked by the .nbt file type) is a file used by Minecraft to save a three dimensional section of blocks. Redstone Sidekick can read these files to give you a condensed crafting tree and gathering list for that structure. 
 
-In order to create a RS Project from a structure file, go to the top menu in Redstone Sidekick, select "New From Structure" or "Add Structure" and select your .nbt file in the file explorer.
+In order to create a RS Project from a structure file, go to the top menu in Redstone Sidekick, select "New From Structure" or "Add Structure" and select your .nbt file in the file explorer. You can load .schem files this same way.
 
 ![New From Structure](https://i.imgur.com/v564LRm.png)
 
